@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+Visit my website at [abhe.in](https://www.abhe.in)
+
 I have a degree in aerospace engineering, yet coding has always been my *rocket science*. I get the gist of it, but actually doing it always... disconcerts me.
 
 So here I am, trying to learn whatever I can by doing.
 
 Some stuff I've got on here now or in the near-future:
- * A personal website using only HTML, CSS and basic JS, that brings together my profile and disparate interests, such as  writing, photography and employment.
+ * A personal website using only HTML, CSS and basic JS, and without a CMS or SSG, that brings together my profile and disparate interests, such as  writing, photography.
  * Scripts written for very specific tasks, such as converting MD to HTML, editing EXIF data in photos, etc.
  * My experiments with algorithmic computer music using Pure Data.
  
