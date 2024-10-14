@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--
+
 Visit my website at [abhe.in](https://www.abhe.in)
 
 I have a degree in aerospace engineering, yet coding has always been my *rocket science*. I get the gist of it, but actually doing it always... disconcerts me.
@@ -16,9 +18,6 @@ Some goals I have in mind:
  * Maybe re-write the scripts in different languages, if only to understand the advantages of each.
  * Make a website inspired by [generative.fm](generative.fm) using the music I "write."
 
-
-
-<!--
 **abheshek-pandey/abheshek-pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
